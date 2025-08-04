@@ -1,1 +1,1 @@
-`.npmrc` file present but `replaces_base:true` not set
+ `replaces_base:true` is set but `.npmrc` file is not present
