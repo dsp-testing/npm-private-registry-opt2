@@ -1,1 +1,1 @@
-Validating npm with private registry
+`.npmrc` file present but `replaces_base:true` not set
